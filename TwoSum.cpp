@@ -1,3 +1,5 @@
+//O(n^2) solution, can get O(n) slution using hash map
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
